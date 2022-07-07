@@ -1,4 +1,4 @@
-# :necktie: :zombie: **Django Backend Course**
+# :zombie: :necktie: **Django Backend Course**
 
 [![forthebadge](https://forthebadge.com/images/badges/for-robots.svg)](https://forthebadge.com)
 [![MIT License][license-shield]][license-url]
