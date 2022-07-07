@@ -1,4 +1,4 @@
-# :necktie: **Django Backend Course**
+# :necktie: :zombie: **Django Backend Course**
 
 [![forthebadge](https://forthebadge.com/images/badges/for-robots.svg)](https://forthebadge.com)
 [![MIT License][license-shield]][license-url]
@@ -11,7 +11,7 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :zombie: Solutions to the Django backend course tasks.
+## :white_check_mark: Solutions to the Django backend course tasks.
 
 - ### [Task 1 — LRU Cache](https://github.com/tensorush/Django-Backend-Course/tree/master/1-LRU-Cache) :moneybag:
 
